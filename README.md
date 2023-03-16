@@ -1,1 +1,1 @@
-# big-data-introduction
+# 빅데이터 개론 수업 과제 제출 레포지토리
